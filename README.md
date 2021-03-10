@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there I am Bryce!👋
+
+**About Me!**
+My name is Bryce Moore and I am a full stack software engineer. I love computer science, music, art, film, and chess! I am fluent in Java, Python, Ruby, and JavaScript, and am experienced in technologies such as Ruby on Rails, React, Redux, Node, and Postgres.
 
 <!--
 **brycemooore/brycemooore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
