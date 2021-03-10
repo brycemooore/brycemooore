@@ -10,9 +10,9 @@ My name is Bryce Moore and I am a full stack software engineer. I love computer 
 
 ###🌱 I’m currently learning 
 
--Refreshing my Java
--Django
--C++
+- Refreshing my Java
+- Django
+- C++
 
 ###📫 How to reach me:
 
