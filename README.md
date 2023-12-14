@@ -7,18 +7,16 @@
 ### Hi there I am Bryce!👋
 
 **About Me!**
-My name is Bryce Moore and I am a full stack software engineer. I love computer science, music, art, film, and chess! I am fluent in Java, Python, Ruby, and JavaScript, and am experienced in technologies such as Ruby on Rails, React, Redux, Node, and Postgres.
+My name is Bryce Moore and I am a full stack software engineer. I love computer science, music, art, film, and chess! I am fluent in Java, Python, Rust.
 
 ###🔭 I’m currently working on 
 
-- A music based social media site built in Django.
-- My personal Site built in React
+- Reading Rust in Action and Zero to Production in Rust
+- Chess in Rust and Javascript with WASM
 
 ###🌱 I’m currently learning 
 
-- Refreshing my Java
-- Django
-- C++
+- Rust
 
 ###📫 How to reach me:
 
