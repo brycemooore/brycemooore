@@ -7,7 +7,7 @@
 ### Hi there I am Bryce!👋
 
 **About Me!**
-My name is Bryce Moore and I am a full stack software engineer. I love computer science, music, art, film, and chess! I am fluent in Java, Python, Rust.
+My name is Bryce Moore and I am a full stack software engineer. I love computer science, music, art, film, and chess! I am fluent in Java, Python, Rust, Javascript/Typescript.
 
 ###🔭 I’m currently working on 
 
